@@ -19,3 +19,5 @@ The product codes are listed below, followed by the name of product, deparment, 
 '9', 'Game of Thrones: Season 1', 'Movies', '80', '500'
 '10', 'God of War', 'Video Games', '60', '200'
 
+![ScreenShot](screenshot1.png)
+![ScreenShot](screenshot2.png)
